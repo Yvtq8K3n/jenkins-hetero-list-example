@@ -2,4 +2,4 @@
 
 ## Introduction
 
-This contains an example of a functional hetero-list in jekins.
+This contains an example of a functional hetero-list for jekins plugin developement.
